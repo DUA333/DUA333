@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm DOUAE MEROUCHI</h1>
 <h3 align="center">A passionate frontend developer from Algeria </h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/10/72/2f/10722f60716d5112d8f95f22774764aa.jpg")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dua333&label=Profile%20views&color=0e75b6&style=flat" alt="dua333" /> </p>
 
