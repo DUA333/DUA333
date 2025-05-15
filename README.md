@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm DOUAE MEROUCHI</h1>
-<h3 align="center">A passionate frontend developer from Algeria </h3>
+<h3 align="center">A passionate Fullstack developer from Algeria </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dua333&label=Profile%20views&color=0e75b6&style=flat" alt="dua333" /> </p>
 
-- 🌱 I’m currently learning **artificial intelligence**
+- 🌱 I’m currently learning **artificial intelligence and Iot **
 
-- 💬 Ask me about **HTML, CSS ,JavaScript,ReactJS**
+- 💬 Ask me about **HTML, CSS ,JavaScript,ReactJS, MongoDb, Django **
 
 - 📫 How to reach me **Douaa.merouchi03@gmail.com**
 
