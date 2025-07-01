@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dua333&label=Profile%20views&color=0e75b6&style=flat" alt="dua333" /> </p>
 
-- 🌱 I’m currently learning **artificial intelligence and Iot **
+- 🌱 I’m currently learning **artificial intelligence **
 
 - 💬 Ask me about **HTML, CSS ,JavaScript,ReactJS, MongoDb, Django **
 
